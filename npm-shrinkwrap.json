@@ -10,10 +10,10 @@
       "hasInstallScript": true,
       "license": "MIT",
       "dependencies": {
-        "chrome-devtools-mcp": "^0.20.3",
-        "diff": "^8.0.4",
-        "puppeteer-core": "^24.40.0",
-        "rebrowser-patches": "^1.0.19"
+        "chrome-devtools-mcp": "0.20.3",
+        "diff": "8.0.4",
+        "puppeteer-core": "24.40.0",
+        "rebrowser-patches": "1.0.19"
       },
       "bin": {
         "chrome-devtools-mcp-rebrowser": "launch.mjs"
